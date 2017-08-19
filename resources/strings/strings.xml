@@ -5,14 +5,14 @@
     <string id="TrunningLap">Running lap distance</string>
     <string id="TgenericLap">Other lap distance</string>
 
-    <string id="m100">100 meters</string>
-    <string id="m250">250 meters</string>
-    <string id="m500">500 meters</string>
-    <string id="m1k">1 kilometer</string>
-    <string id="m2k">2 kilometers</string>
-    <string id="m5k">5 kilometers</string>
-    <string id="m10k">10 kilometers</string>
-    <string id="m20k">20 kilometers</string>
+    <string id="m100">100 metres</string>
+    <string id="m250">250 metres</string>
+    <string id="m500">500 metres</string>
+    <string id="m1k">1 kilometre</string>
+    <string id="m2k">2 kilometres</string>
+    <string id="m5k">5 kilometres</string>
+    <string id="m10k">10 kilometres</string>
+    <string id="m20k">20 kilometres</string>
     <string id="mqm">1/4 miles</string>
     <string id="mhm">1/2 miles</string>
     <string id="m1m">1 miles</string>
