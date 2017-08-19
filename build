@@ -1,0 +1,23 @@
+#!/usr/bin/env node
+
+'use strict';
+
+const fs = require('fs');
+const path = require('path');
+const cp = require('child_process');
+const dir = par => {
+  const stat = fs.statSync(par);
+  if (stat.isDirectory()) {
+    const files = fs.readdirSync(par);
+    let r = [].concat([], files.reduce((res, f) => res.concat(dir(path.join(par, f))), []));
+    return r;
+  } else return par;
+};
+
+const resXml = dir('.').filter(n => n.startsWith('resources')).filter(n => n.endsWith('.xml')).join(':');
+const source = dir('source').filter(n => n.endsWith('.mc'));
+
+const res = cp.spawnSync('/Users/hooky/garmin/connectiq-sdk-mac-2.3.2/bin/monkeyc', ['-w', '-y', '../developer_key.der', '-z', resXml, '-m', 'manifest.xml'].concat(process.argv.slice(2)).concat(source), {stdio: [0,1,2]});
+
+if ( res.status !== 0 ) { console.log("FAILED :: Code:", res.status); }
+process.exit(res.status);

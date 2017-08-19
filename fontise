@@ -1,0 +1,63 @@
+#!/usr/bin/env node
+
+'use strict';
+
+const fs = require('fs');
+const path = require('path');
+const cp = require('child_process');
+
+const setup = [
+  { height: 56, blockWidth: 8,  extra: 2, chars: "0123456789:.! " },
+  { height: 49, blockWidth: 7,  extra: 2, chars: "0123456789:.! " },
+  { height: 42, blockWidth: 6,  extra: 1, chars: "0123456789:.! " },
+  { height: 35, blockWidth: 5,  extra: 2, chars: "0123456789:.! " },
+  { height: 28, blockWidth: 4,  extra: 1, chars: "0123456789:.! " },
+  { height: 21, blockWidth: 3,  extra: 1, chars: "0123456789:.! " },
+  { height: 14, blockWidth: 2,  extra: 1, chars: "0123456789:.! " },
+  { height: 7,  blockWidth: 1.001,  extra: 1, chars: "0123456789:.! " },
+  { height: 14, blockWidth: 1,  extra: 0, chars: "abcdefghijklmnopqrstuvwxyz/CSGFDHTWA! " },
+];
+
+const refWidth = {
+  1: ':!.',
+  3: 'il',
+  4: '1234567890 jrt',
+  5: 'f',
+  6: 'acksvxyz/',
+  7: 'bdehnopqgu',
+  8: '',
+  9: 'w',
+  11: 'm',
+  17: 'CSGFDHTWA'
+};
+
+const charRef = {};
+Object.keys(refWidth).forEach(m => refWidth[m].split('').forEach(l => charRef[l] = m));
+
+
+const root = ['.', 'resources', 'font'];
+
+let osY = 0;
+setup.forEach(setting => {
+  const fName = path.join.apply(path, root.concat(`hooky_${setting.blockWidth}${setting.inverted? 'i':''}.fnt`));
+  const out = fs.createWriteStream(fName);
+  out.write(`common lineHeight=${setting.height} base=${setting.height} pages=1
+page id=0 file="hooky.png"
+chars count=${setting.chars.length}
+`, () => {
+    let osX = 0;
+    const lines = setting.chars.split('').map(c => {
+      let w = charRef[c] * setting.blockWidth | 0;
+      let l = `char id=${c.charCodeAt(0)} `;
+      l += `x=${osX} y=${osY} `;
+      l += `width=${w} `;
+      l += `height=${setting.height} `;
+      l += `xoffset=${setting.extra/2|0} yoffset=0 xadvance=${w + setting.extra} page=0 chnl=1`;
+      osX += charRef[c] * setting.blockWidth | 0;
+      return l;
+    });
+    lines.push("");
+    out.end(lines.join("\r\n"));
+    osY += setting.height;
+  });
+});

@@ -1,0 +1,17 @@
+common lineHeight=35 base=35 pages=1
+page id=0 file="hooky.png"
+chars count=14
+char id=48 x=0 y=147 width=20 height=35 xoffset=1 yoffset=0 xadvance=22 page=0 chnl=1
+char id=49 x=20 y=147 width=20 height=35 xoffset=1 yoffset=0 xadvance=22 page=0 chnl=1
+char id=50 x=40 y=147 width=20 height=35 xoffset=1 yoffset=0 xadvance=22 page=0 chnl=1
+char id=51 x=60 y=147 width=20 height=35 xoffset=1 yoffset=0 xadvance=22 page=0 chnl=1
+char id=52 x=80 y=147 width=20 height=35 xoffset=1 yoffset=0 xadvance=22 page=0 chnl=1
+char id=53 x=100 y=147 width=20 height=35 xoffset=1 yoffset=0 xadvance=22 page=0 chnl=1
+char id=54 x=120 y=147 width=20 height=35 xoffset=1 yoffset=0 xadvance=22 page=0 chnl=1
+char id=55 x=140 y=147 width=20 height=35 xoffset=1 yoffset=0 xadvance=22 page=0 chnl=1
+char id=56 x=160 y=147 width=20 height=35 xoffset=1 yoffset=0 xadvance=22 page=0 chnl=1
+char id=57 x=180 y=147 width=20 height=35 xoffset=1 yoffset=0 xadvance=22 page=0 chnl=1
+char id=58 x=200 y=147 width=5 height=35 xoffset=1 yoffset=0 xadvance=7 page=0 chnl=1
+char id=46 x=205 y=147 width=5 height=35 xoffset=1 yoffset=0 xadvance=7 page=0 chnl=1
+char id=33 x=210 y=147 width=5 height=35 xoffset=1 yoffset=0 xadvance=7 page=0 chnl=1
+char id=32 x=215 y=147 width=20 height=35 xoffset=1 yoffset=0 xadvance=22 page=0 chnl=1

@@ -1,0 +1,78 @@
+<settings>
+  <setting propertyKey="@Properties.runningLap" title="@Strings.TrunningLap">
+    <settingConfig type="list">
+      <listEntry value="100">@Strings.m100</listEntry>
+      <listEntry value="250">@Strings.m250</listEntry>
+      <listEntry value="500">@Strings.m500</listEntry>
+      <listEntry value="1000">@Strings.m1k</listEntry>
+      <listEntry value="2000">@Strings.m2k</listEntry>
+      <listEntry value="5000">@Strings.m5k</listEntry>
+      <listEntry value="10000">@Strings.m10k</listEntry>
+      <listEntry value="20000">@Strings.m20k</listEntry>
+      <listEntry value="402">@Strings.mqm</listEntry>
+      <listEntry value="804">@Strings.mhm</listEntry>
+      <listEntry value="1609">@Strings.m1m</listEntry>
+      <listEntry value="3219">@Strings.m2m</listEntry>
+      <listEntry value="8047">@Strings.m5m</listEntry>
+      <listEntry value="16093">@Strings.m10m</listEntry>
+      <listEntry value="32187">@Strings.m20m</listEntry>
+    </settingConfig>
+  </setting>
+  <setting propertyKey="@Properties.cyclingLap" title="@Strings.TcyclingLap">
+    <settingConfig type="list">
+      <listEntry value="100">@Strings.m100</listEntry>
+      <listEntry value="250">@Strings.m250</listEntry>
+      <listEntry value="500">@Strings.m500</listEntry>
+      <listEntry value="1000">@Strings.m1k</listEntry>
+      <listEntry value="2000">@Strings.m2k</listEntry>
+      <listEntry value="5000">@Strings.m5k</listEntry>
+      <listEntry value="10000">@Strings.m10k</listEntry>
+      <listEntry value="20000">@Strings.m20k</listEntry>
+      <listEntry value="402">@Strings.mqm</listEntry>
+      <listEntry value="804">@Strings.mhm</listEntry>
+      <listEntry value="1609">@Strings.m1m</listEntry>
+      <listEntry value="3219">@Strings.m2m</listEntry>
+      <listEntry value="8047">@Strings.m5m</listEntry>
+      <listEntry value="16093">@Strings.m10m</listEntry>
+      <listEntry value="32187">@Strings.m20m</listEntry>
+    </settingConfig>
+  </setting>
+  <setting propertyKey="@Properties.swimmingLap" title="@Strings.TswimmingLap">
+    <settingConfig type="list">
+      <listEntry value="100">@Strings.m100</listEntry>
+      <listEntry value="250">@Strings.m250</listEntry>
+      <listEntry value="500">@Strings.m500</listEntry>
+      <listEntry value="1000">@Strings.m1k</listEntry>
+      <listEntry value="2000">@Strings.m2k</listEntry>
+      <listEntry value="5000">@Strings.m5k</listEntry>
+      <listEntry value="10000">@Strings.m10k</listEntry>
+      <listEntry value="20000">@Strings.m20k</listEntry>
+      <listEntry value="402">@Strings.mqm</listEntry>
+      <listEntry value="804">@Strings.mhm</listEntry>
+      <listEntry value="1609">@Strings.m1m</listEntry>
+      <listEntry value="3219">@Strings.m2m</listEntry>
+      <listEntry value="8047">@Strings.m5m</listEntry>
+      <listEntry value="16093">@Strings.m10m</listEntry>
+      <listEntry value="32187">@Strings.m20m</listEntry>
+    </settingConfig>
+  </setting>
+  <setting propertyKey="@Properties.genericLap" title="@Strings.TgenericLap">
+    <settingConfig type="list">
+      <listEntry value="100">@Strings.m100</listEntry>
+      <listEntry value="250">@Strings.m250</listEntry>
+      <listEntry value="500">@Strings.m500</listEntry>
+      <listEntry value="1000">@Strings.m1k</listEntry>
+      <listEntry value="2000">@Strings.m2k</listEntry>
+      <listEntry value="5000">@Strings.m5k</listEntry>
+      <listEntry value="10000">@Strings.m10k</listEntry>
+      <listEntry value="20000">@Strings.m20k</listEntry>
+      <listEntry value="402">@Strings.mqm</listEntry>
+      <listEntry value="804">@Strings.mhm</listEntry>
+      <listEntry value="1609">@Strings.m1m</listEntry>
+      <listEntry value="3219">@Strings.m2m</listEntry>
+      <listEntry value="8047">@Strings.m5m</listEntry>
+      <listEntry value="16093">@Strings.m10m</listEntry>
+      <listEntry value="32187">@Strings.m20m</listEntry>
+    </settingConfig>
+  </setting>
+</settings>

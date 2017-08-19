@@ -1,5 +1,23 @@
 <strings>
     <string id="AppName">TidyField</string>
+    <string id="TcyclingLap">Cycling lap distance</string>
+    <string id="TswimmingLap">Swimming lap distance</string>
+    <string id="TrunningLap">Running lap distance</string>
+    <string id="TgenericLap">Other lap distance</string>
 
-    <string id="label">My Value</string>
+    <string id="m100">100 meters</string>
+    <string id="m250">250 meters</string>
+    <string id="m500">500 meters</string>
+    <string id="m1k">1 kilometer</string>
+    <string id="m2k">2 kilometers</string>
+    <string id="m5k">5 kilometers</string>
+    <string id="m10k">10 kilometers</string>
+    <string id="m20k">20 kilometers</string>
+    <string id="mqm">1/4 miles</string>
+    <string id="mhm">1/2 miles</string>
+    <string id="m1m">1 miles</string>
+    <string id="m2m">2 miles</string>
+    <string id="m5m">5 miles</string>
+    <string id="m10m">10 miles</string>
+    <string id="m20m">20 miles</string>
 </strings>

@@ -1,0 +1,8 @@
+<resources>
+    <fonts>
+        <font id="txt" filename="../resources/font/hooky_1.fnt"  antialias="true" filter="agiklmoptv!CDFHSTA" />
+        <font id="small" filename="../resources/font/hooky_3.fnt"  antialias="true" />
+        <font id="medium" filename="../resources/font/hooky_3.fnt"  antialias="true" />
+        <font id="large" filename="../resources/font/hooky_5.fnt"  antialias="true" />
+    </fonts>
+</resources>

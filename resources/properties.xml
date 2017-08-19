@@ -1,0 +1,6 @@
+<properties>
+    <property id="cyclingLap" type="number">5000</property>
+    <property id="swimmingLap" type="number">100</property>
+    <property id="runningLap" type="number">1000</property>
+    <property id="genericLap" type="number">500</property>
+</properties>

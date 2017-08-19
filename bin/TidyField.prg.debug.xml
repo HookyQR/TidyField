@@ -1,160 +1,417 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="8" pc="268435456" symbol="initialize"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="9" pc="268435460" symbol="initialize"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="10" pc="268435478" symbol="initialize"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="15" pc="268435492" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="16" pc="268435496" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="19" pc="268435515" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="20" pc="268435538" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="24" pc="268435607" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="28" pc="268435676" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="32" pc="268435745" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="36" pc="268435791" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="37" pc="268435834" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="38" pc="268435858" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="39" pc="268435880" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="40" pc="268435904" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="43" pc="268435926" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="44" pc="268435978" symbol="onLayout"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="51" pc="268435982" symbol="compute"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="53" pc="268435986" symbol="compute"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="54" pc="268435997" symbol="compute"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="55" pc="268436010" symbol="compute"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="57" pc="268436029" symbol="compute"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="64" pc="268436046" symbol="onUpdate"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="66" pc="268436050" symbol="onUpdate"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="69" pc="268436093" symbol="onUpdate"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="70" pc="268436117" symbol="onUpdate"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="71" pc="268436144" symbol="onUpdate"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="73" pc="268436171" symbol="onUpdate"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="75" pc="268436195" symbol="onUpdate"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldView.mc" lineNum="78" pc="268436229" symbol="onUpdate"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldBackground.mc" lineNum="9" pc="268436250" symbol="initialize"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldBackground.mc" lineNum="10" pc="268436254" symbol="initialize"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldBackground.mc" lineNum="14" pc="268436275" symbol="initialize"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldBackground.mc" lineNum="17" pc="268436296" symbol="setColor"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldBackground.mc" lineNum="18" pc="268436300" symbol="setColor"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldBackground.mc" lineNum="21" pc="268436311" symbol="draw"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldBackground.mc" lineNum="22" pc="268436315" symbol="draw"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldBackground.mc" lineNum="23" pc="268436347" symbol="draw"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldApp.mc" lineNum="5" pc="268436360" symbol="initialize"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldApp.mc" lineNum="6" pc="268436364" symbol="initialize"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldApp.mc" lineNum="10" pc="268436383" symbol="onStart"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldApp.mc" lineNum="14" pc="268436388" symbol="onStop"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldApp.mc" lineNum="18" pc="268436393" symbol="getInitialView"/>
-<entry filename="/Users/hooky/eclipse/workspace/TidyField/source/TidyFieldApp.mc" lineNum="19" pc="268436397" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="19" pc="268436435" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="21" pc="268436447" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="22" pc="268436471" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="23" pc="268436634" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="24" pc="268436659" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="25" pc="268436711" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="26" pc="268436757" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="27" pc="268436920" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="28" pc="268436945" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="29" pc="268436997" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="32" pc="268437043" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="41" pc="268437081" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="43" pc="268437093" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="44" pc="268437117" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="45" pc="268437250" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="48" pc="268437383" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="57" pc="268437421" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="59" pc="268437433" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="60" pc="268437457" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="61" pc="268437590" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="64" pc="268437723" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="73" pc="268437761" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="75" pc="268437773" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="76" pc="268437797" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="77" pc="268437930" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="80" pc="268438063" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="89" pc="268438101" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="91" pc="268438113" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="92" pc="268438137" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="93" pc="268438270" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="96" pc="268438403" symbol="BottomRightLayout"/>
+<entry filename="source/TidyData.mc" lineNum="17" pc="268435456" symbol="fm"/>
+<entry filename="source/TidyData.mc" lineNum="18" pc="268435460" symbol="fm"/>
+<entry filename="source/TidyData.mc" lineNum="19" pc="268435483" symbol="fm"/>
+<entry filename="source/TidyData.mc" lineNum="22" pc="268435487" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="23" pc="268435491" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="25" pc="268435507" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="26" pc="268435507" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="27" pc="268435507" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="29" pc="268435520" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="30" pc="268435531" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="32" pc="268435566" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="33" pc="268435576" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="34" pc="268435586" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="35" pc="268435609" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="38" pc="268435635" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="39" pc="268435646" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="40" pc="268435800" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="42" pc="268435813" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="43" pc="268435824" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="44" pc="268435847" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="46" pc="268435860" symbol="initialize"/>
+<entry filename="source/TidyData.mc" lineNum="49" pc="268435886" symbol="reset"/>
+<entry filename="source/TidyData.mc" lineNum="50" pc="268435890" symbol="reset"/>
+<entry filename="source/TidyData.mc" lineNum="50" pc="268435911" symbol="reset"/>
+<entry filename="source/TidyData.mc" lineNum="51" pc="268435940" symbol="reset"/>
+<entry filename="source/TidyData.mc" lineNum="52" pc="268435953" symbol="reset"/>
+<entry filename="source/TidyData.mc" lineNum="53" pc="268435966" symbol="reset"/>
+<entry filename="source/TidyData.mc" lineNum="54" pc="268435979" symbol="reset"/>
+<entry filename="source/TidyData.mc" lineNum="55" pc="268435992" symbol="reset"/>
+<entry filename="source/TidyData.mc" lineNum="56" pc="268436005" symbol="reset"/>
+<entry filename="source/TidyData.mc" lineNum="57" pc="268436018" symbol="reset"/>
+<entry filename="source/TidyData.mc" lineNum="58" pc="268436031" symbol="reset"/>
+<entry filename="source/TidyData.mc" lineNum="61" pc="268436042" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="62" pc="268436046" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="64" pc="268436046" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="65" pc="268436074" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="66" pc="268436102" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="68" pc="268436121" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="73" pc="268436169" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="74" pc="268436192" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="75" pc="268436208" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="76" pc="268436224" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="77" pc="268436243" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="77" pc="268436263" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="79" pc="268436276" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="81" pc="268436286" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="82" pc="268436327" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="83" pc="268436346" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="84" pc="268436363" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="85" pc="268436380" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="86" pc="268436390" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="87" pc="268436421" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="88" pc="268436435" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="89" pc="268436447" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="91" pc="268436451" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="92" pc="268436467" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="93" pc="268436483" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="96" pc="268436505" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="97" pc="268436536" symbol="add"/>
+<entry filename="source/TidyData.mc" lineNum="98" pc="268436546" symbol="add"/>
+<entry filename="source/TidyFieldApp.mc" lineNum="5" pc="268436560" symbol="initialize"/>
+<entry filename="source/TidyFieldApp.mc" lineNum="5" pc="268436564" symbol="initialize"/>
+<entry filename="source/TidyFieldApp.mc" lineNum="6" pc="268436583" symbol="getInitialView"/>
+<entry filename="source/TidyFieldApp.mc" lineNum="6" pc="268436587" symbol="getInitialView"/>
+<entry filename="source/TidyFieldApp.mc" lineNum="6" pc="268436617" symbol="getInitialView"/>
+<entry filename="source/TidyFieldApp.mc" lineNum="7" pc="268436641" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldApp.mc" lineNum="7" pc="268436645" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="36" pc="268436664" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="37" pc="268436668" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="38" pc="268436686" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="39" pc="268436703" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="50" pc="268436793" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="51" pc="268436830" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="41" pc="268436836" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="42" pc="268436873" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="44" pc="268436876" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="45" pc="268436913" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="47" pc="268436916" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="48" pc="268436953" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="53" pc="268436959" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="54" pc="268436981" symbol="initialize"/>
+<entry filename="source/TidyFieldView.mc" lineNum="57" pc="268437020" symbol="fm"/>
+<entry filename="source/TidyFieldView.mc" lineNum="58" pc="268437024" symbol="fm"/>
+<entry filename="source/TidyFieldView.mc" lineNum="59" pc="268437047" symbol="fm"/>
+<entry filename="source/TidyFieldView.mc" lineNum="62" pc="268437051" symbol="dUnits"/>
+<entry filename="source/TidyFieldView.mc" lineNum="63" pc="268437055" symbol="dUnits"/>
+<entry filename="source/TidyFieldView.mc" lineNum="64" pc="268437078" symbol="dUnits"/>
+<entry filename="source/TidyFieldView.mc" lineNum="67" pc="268437082" symbol="tfHour"/>
+<entry filename="source/TidyFieldView.mc" lineNum="68" pc="268437086" symbol="tfHour"/>
+<entry filename="source/TidyFieldView.mc" lineNum="69" pc="268437109" symbol="tfHour"/>
+<entry filename="source/TidyFieldView.mc" lineNum="71" pc="268437113" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="72" pc="268437117" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="74" pc="268437136" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="75" pc="268437153" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="76" pc="268437166" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="77" pc="268437179" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="78" pc="268437197" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="79" pc="268437210" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="81" pc="268437226" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="82" pc="268437244" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="83" pc="268437257" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="85" pc="268437273" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="86" pc="268437286" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="87" pc="268437299" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="88" pc="268437326" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="89" pc="268437339" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="92" pc="268437355" symbol="onSettingsChanged"/>
+<entry filename="source/TidyFieldView.mc" lineNum="94" pc="268437374" symbol="onLayout"/>
+<entry filename="source/TidyFieldView.mc" lineNum="95" pc="268437378" symbol="onLayout"/>
+<entry filename="source/TidyFieldView.mc" lineNum="96" pc="268437390" symbol="onLayout"/>
+<entry filename="source/TidyFieldView.mc" lineNum="97" pc="268437410" symbol="onLayout"/>
+<entry filename="source/TidyFieldView.mc" lineNum="109" pc="268437541" symbol="onLayout"/>
+<entry filename="source/TidyFieldView.mc" lineNum="121" pc="268437669" symbol="onLayout"/>
+<entry filename="source/TidyFieldView.mc" lineNum="122" pc="268437695" symbol="onLayout"/>
+<entry filename="source/TidyFieldView.mc" lineNum="123" pc="268437714" symbol="onLayout"/>
+<entry filename="source/TidyFieldView.mc" lineNum="125" pc="268437733" symbol="onLayout"/>
+<entry filename="source/TidyFieldView.mc" lineNum="128" pc="268437737" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="129" pc="268437741" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="130" pc="268437757" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="131" pc="268437797" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="132" pc="268437837" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="133" pc="268437877" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="135" pc="268437917" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="136" pc="268437957" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="138" pc="268437997" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="139" pc="268438019" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="140" pc="268438041" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="141" pc="268438069" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="142" pc="268438097" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="144" pc="268438125" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="147" pc="268438170" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="149" pc="268438174" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="151" pc="268438216" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="152" pc="268438233" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="153" pc="268438279" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="154" pc="268438331" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="156" pc="268438395" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="157" pc="268438411" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="158" pc="268438427" symbol="compute"/>
+<entry filename="source/TidyFieldView.mc" lineNum="162" pc="268438444" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="163" pc="268438448" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="164" pc="268438485" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="165" pc="268438532" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="166" pc="268438582" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="167" pc="268438601" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="168" pc="268438648" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="169" pc="268438695" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="170" pc="268438714" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="171" pc="268438767" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="172" pc="268438786" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="173" pc="268438813" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="175" pc="268438852" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="177" pc="268438888" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="178" pc="268438935" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="179" pc="268438962" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="181" pc="268439001" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="183" pc="268439037" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="184" pc="268439096" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="185" pc="268439114" symbol="drawTxt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="187" pc="268439171" symbol="drawSmall"/>
+<entry filename="source/TidyFieldView.mc" lineNum="188" pc="268439175" symbol="drawSmall"/>
+<entry filename="source/TidyFieldView.mc" lineNum="189" pc="268439212" symbol="drawSmall"/>
+<entry filename="source/TidyFieldView.mc" lineNum="190" pc="268439236" symbol="drawSmall"/>
+<entry filename="source/TidyFieldView.mc" lineNum="191" pc="268439280" symbol="drawSmall"/>
+<entry filename="source/TidyFieldView.mc" lineNum="192" pc="268439304" symbol="drawSmall"/>
+<entry filename="source/TidyFieldView.mc" lineNum="193" pc="268439348" symbol="drawSmall"/>
+<entry filename="source/TidyFieldView.mc" lineNum="194" pc="268439367" symbol="drawSmall"/>
+<entry filename="source/TidyFieldView.mc" lineNum="195" pc="268439391" symbol="drawSmall"/>
+<entry filename="source/TidyFieldView.mc" lineNum="196" pc="268439435" symbol="drawSmall"/>
+<entry filename="source/TidyFieldView.mc" lineNum="197" pc="268439459" symbol="drawSmall"/>
+<entry filename="source/TidyFieldView.mc" lineNum="199" pc="268439504" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="200" pc="268439508" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="201" pc="268439545" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="202" pc="268439545" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="203" pc="268439561" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="204" pc="268439571" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="205" pc="268439581" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="206" pc="268439594" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="208" pc="268439607" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="209" pc="268439690" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="210" pc="268439737" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="211" pc="268439756" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="212" pc="268439783" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="214" pc="268439822" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="216" pc="268439858" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="217" pc="268439898" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="218" pc="268439948" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="219" pc="268439975" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="221" pc="268440014" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="223" pc="268440050" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="224" pc="268440074" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="225" pc="268440118" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="227" pc="268440142" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="228" pc="268440159" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="229" pc="268440176" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="230" pc="268440187" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="232" pc="268440237" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="234" pc="268440301" symbol="drawMedium"/>
+<entry filename="source/TidyFieldView.mc" lineNum="237" pc="268440349" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="238" pc="268440353" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="239" pc="268440390" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="240" pc="268440390" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="241" pc="268440414" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="242" pc="268440464" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="243" pc="268440483" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="244" pc="268440507" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="245" pc="268440557" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="246" pc="268440576" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="247" pc="268440576" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="248" pc="268440592" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="249" pc="268440602" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="250" pc="268440612" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="251" pc="268440625" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="252" pc="268440638" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="253" pc="268440656" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="254" pc="268440683" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="256" pc="268440722" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="259" pc="268440761" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="260" pc="268440802" symbol="drawLarge"/>
+<entry filename="source/TidyFieldView.mc" lineNum="262" pc="268440853" symbol="onUpdate"/>
+<entry filename="source/TidyFieldView.mc" lineNum="263" pc="268440857" symbol="onUpdate"/>
+<entry filename="source/TidyFieldView.mc" lineNum="264" pc="268440884" symbol="onUpdate"/>
+<entry filename="source/TidyFieldView.mc" lineNum="265" pc="268440920" symbol="onUpdate"/>
+<entry filename="source/TidyFieldView.mc" lineNum="266" pc="268440932" symbol="onUpdate"/>
+<entry filename="source/TidyFieldView.mc" lineNum="268" pc="268440971" symbol="onUpdate"/>
+<entry filename="source/TidyFieldView.mc" lineNum="269" pc="268441007" symbol="onUpdate"/>
+<entry filename="source/TidyFieldView.mc" lineNum="270" pc="268441019" symbol="onUpdate"/>
+<entry filename="source/TidyFieldView.mc" lineNum="272" pc="268441055" symbol="onUpdate"/>
+<entry filename="source/TidyFieldView.mc" lineNum="273" pc="268441083" symbol="onUpdate"/>
+<entry filename="source/TidyFieldView.mc" lineNum="274" pc="268441126" symbol="onUpdate"/>
+<entry filename="source/TidyFieldView.mc" lineNum="275" pc="268441189" symbol="onUpdate"/>
+<entry filename="source/TidyFieldView.mc" lineNum="278" pc="268441218" symbol="hourFmt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="279" pc="268441222" symbol="hourFmt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="279" pc="268441233" symbol="hourFmt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="280" pc="268441246" symbol="hourFmt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="280" pc="268441257" symbol="hourFmt"/>
+<entry filename="source/TidyFieldView.mc" lineNum="281" pc="268441267" symbol="hourFmt"/>
 </pcToLineNum>
 <symbolTable>
+<entry field="true" id="55" symbol="cad"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry id="8389349" symbol="justification"/>
-<entry id="15" method="true" symbol="TopLeftLayout"/>
+<entry field="true" id="54" symbol="unitsDiv"/>
+<entry field="true" id="58" symbol="avgCad"/>
+<entry field="true" id="62" symbol="slideTime"/>
+<entry field="true" id="52" symbol="cadDiv"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry field="true" id="30" symbol="TrunningLap"/>
+<entry field="true" id="45" symbol="distTotal"/>
+<entry field="true" id="18" symbol="large"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
-<entry field="true" id="8389138" symbol="label"/>
-<entry id="17" method="true" symbol="BottomLeftLayout"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry id="8389068" method="true" symbol="draw"/>
-<entry id="14" method="true" symbol="MainLayout"/>
+<entry field="true" id="8389849" symbol="units"/>
+<entry field="true" id="8389401" symbol="is24Hour"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
-<entry field="true" id="8389130" symbol="mColor"/>
-<entry id="8389131" method="true" symbol="setColor"/>
-<entry field="true" id="20" symbol="mValue"/>
+<entry field="true" id="20" symbol="m5m"/>
+<entry field="true" id="19" symbol="m5k"/>
+<entry field="true" id="53" symbol="cadStr"/>
+<entry id="68" method="true" symbol="drawTxt"/>
+<entry field="true" id="27" symbol="m2m"/>
+<entry field="true" id="24" symbol="m2k"/>
+<entry field="true" id="17" symbol="medium"/>
+<entry field="true" id="26" symbol="m1m"/>
+<entry field="true" id="22" symbol="m1k"/>
+<entry field="true" id="8389807" symbol="data"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry id="9" object="true" symbol="TidyFieldView"/>
-<entry field="true" id="19" symbol="AppName"/>
+<entry field="true" id="48" symbol="ready"/>
+<entry field="true" id="40" symbol="readIdx"/>
+<entry id="11" object="true" symbol="TidyFieldView"/>
+<entry field="true" id="29" symbol="AppName"/>
+<entry field="true" id="73" symbol="view"/>
 <entry id="10" object="true" symbol="TidyFieldApp"/>
-<entry id="8390146" module="true" object="true" symbol="Background"/>
-<entry field="true" id="13" symbol="LauncherIcon"/>
-<entry id="8389281" method="true" symbol="onStop"/>
-<entry field="true" id="8389065" symbol="locY"/>
-<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="32" symbol="m250"/>
+<entry field="true" id="21" symbol="TcyclingLap"/>
+<entry id="67" method="true" symbol="tfHour"/>
+<entry id="9" object="true" symbol="TidyData"/>
+<entry field="true" id="42" symbol="distTrue"/>
+<entry field="true" id="15" symbol="txt"/>
+<entry field="true" id="31" symbol="m20m"/>
+<entry field="true" id="33" symbol="m20k"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry field="true" id="46" symbol="timeTotal"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="65" symbol="rolling"/>
+<entry field="true" id="8388719" symbol="dst"/>
+<entry field="true" id="38" symbol="m500"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389137" method="true" symbol="compute"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry id="8389279" method="true" symbol="onStart"/>
-<entry id="16" method="true" symbol="TopRightLayout"/>
-<entry field="true" id="8388747" symbol="currentHeartRate"/>
-<entry id="8389348" symbol="font"/>
-<entry id="8389347" symbol="color"/>
-<entry id="12" module="true" symbol="Layouts"/>
-<entry id="18" method="true" symbol="BottomRightLayout"/>
+<entry field="true" id="64" symbol="dispStrings"/>
+<entry id="8388942" method="true" symbol="add"/>
+<entry field="true" id="44" symbol="lapDist"/>
+<entry field="true" id="34" symbol="TgenericLap"/>
+<entry id="72" method="true" symbol="hourFmt"/>
+<entry field="true" id="23" symbol="TswimmingLap"/>
+<entry id="66" method="true" symbol="dUnits"/>
+<entry field="true" id="25" symbol="mqm"/>
+<entry field="true" id="57" symbol="time"/>
+<entry id="50" method="true" symbol="reset"/>
+<entry field="true" id="43" symbol="timeTrue"/>
+<entry field="true" id="61" symbol="slideSpd"/>
+<entry field="true" id="51" symbol="measurements"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry field="true" id="36" symbol="m10m"/>
+<entry field="true" id="28" symbol="m10k"/>
+<entry field="true" id="37" symbol="m100"/>
+<entry id="69" method="true" symbol="drawSmall"/>
+<entry field="true" id="35" symbol="mhm"/>
+<entry field="true" id="41" symbol="dSz"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry field="true" id="8389063" symbol="identifier"/>
-<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="56" symbol="spd"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry field="true" id="39" symbol="writeIdx"/>
+<entry field="true" id="60" symbol="slideCad"/>
+<entry field="true" id="63" symbol="hr"/>
+<entry field="true" id="59" symbol="avgSpd"/>
+<entry id="49" method="true" symbol="fm"/>
+<entry field="true" id="47" symbol="cadTotal"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="16" symbol="small"/>
+<entry id="70" method="true" symbol="drawMedium"/>
+<entry id="71" method="true" symbol="drawLarge"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435926" name="valueView" stackId="4" startPc="268435791"/>
-<entry endPc="268435926" name="labelView" stackId="3" startPc="268435791"/>
-<entry endPc="268435981" name="obscurityFlags" stackId="2" startPc="268435496"/>
-<entry endPc="268435982" name="dc" stackId="1" startPc="268435492"/>
-<entry endPc="268436046" name="info" stackId="1" startPc="268435982"/>
-<entry endPc="268436249" name="value" stackId="2" startPc="268436050"/>
-<entry endPc="268436250" name="dc" stackId="1" startPc="268436046"/>
-<entry endPc="268436295" name="dictionary" stackId="1" startPc="268436254"/>
-<entry endPc="268436311" name="color" stackId="1" startPc="268436296"/>
-<entry endPc="268436360" name="dc" stackId="1" startPc="268436311"/>
-<entry endPc="268436388" name="state" stackId="1" startPc="268436383"/>
-<entry endPc="268436393" name="state" stackId="1" startPc="268436388"/>
-<entry endPc="268437080" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268436447"/>
-<entry endPc="268437080" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268436447"/>
-<entry endPc="268437080" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268436447"/>
-<entry endPc="268437080" name="rez_cmp_local_custom_drawable_WXOCH1OPG67P42142JTO" stackId="2" startPc="268436447"/>
-<entry endPc="268437080" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268436447"/>
-<entry endPc="268437081" name="dc" stackId="1" startPc="268436435"/>
-<entry endPc="268437420" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437093"/>
-<entry endPc="268437420" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437093"/>
-<entry endPc="268437420" name="rez_cmp_local_custom_drawable_N19IZBAHMGSJM026AU7T" stackId="2" startPc="268437093"/>
-<entry endPc="268437421" name="dc" stackId="1" startPc="268437081"/>
-<entry endPc="268437760" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437433"/>
-<entry endPc="268437760" name="rez_cmp_local_custom_drawable_KPQL4L6VBXR7I8ETJVDD" stackId="2" startPc="268437433"/>
-<entry endPc="268437760" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437433"/>
-<entry endPc="268437761" name="dc" stackId="1" startPc="268437421"/>
-<entry endPc="268438100" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437773"/>
-<entry endPc="268438100" name="rez_cmp_local_custom_drawable_TF9SO3TL38EPLK65V6XR" stackId="2" startPc="268437773"/>
-<entry endPc="268438100" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268437773"/>
-<entry endPc="268438101" name="dc" stackId="1" startPc="268437761"/>
-<entry endPc="268438440" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438113"/>
-<entry endPc="268438440" name="rez_cmp_local_custom_drawable_YG2L1N2DFIAJHGN39PT4" stackId="2" startPc="268438113"/>
-<entry endPc="268438440" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438113"/>
-<entry endPc="268438441" name="dc" stackId="1" startPc="268438101"/>
+<entry endPc="268435486" name="fm" stackId="1" startPc="268435460"/>
+<entry endPc="268435885" name="_fm" stackId="4" startPc="268435491"/>
+<entry endPc="268435885" name="max" stackId="2" startPc="268435491"/>
+<entry endPc="268435885" name="nrOf" stackId="3" startPc="268435491"/>
+<entry endPc="268435886" name="lDist" stackId="1" startPc="268435487"/>
+<entry endPc="268435940" name="a" stackId="1" startPc="268435911"/>
+<entry endPc="268436559" name="prevRead" stackId="8" startPc="268436046"/>
+<entry endPc="268436559" name="tmp" stackId="7" startPc="268436046"/>
+<entry endPc="268436559" name="t" stackId="5" startPc="268436046"/>
+<entry endPc="268436559" name="d" stackId="4" startPc="268436046"/>
+<entry endPc="268436559" name="c" stackId="6" startPc="268436046"/>
+<entry endPc="268436560" name="cad" stackId="3" startPc="268436042"/>
+<entry endPc="268436560" name="time" stackId="2" startPc="268436042"/>
+<entry endPc="268436560" name="dist" stackId="1" startPc="268436042"/>
+<entry endPc="268437019" name="sport" stackId="1" startPc="268436668"/>
+<entry endPc="268437050" name="fm" stackId="1" startPc="268437024"/>
+<entry endPc="268437081" name="du" stackId="1" startPc="268437055"/>
+<entry endPc="268437112" name="tf" stackId="1" startPc="268437086"/>
+<entry endPc="268437373" name="sport" stackId="1" startPc="268437117"/>
+<entry endPc="268437737" name="dc" stackId="1" startPc="268437374"/>
+<entry endPc="268438444" name="info" stackId="1" startPc="268437737"/>
+<entry endPc="268439170" name="fnt" stackId="3" startPc="268438448"/>
+<entry endPc="268439171" name="dc" stackId="1" startPc="268438444"/>
+<entry endPc="268439171" name="y" stackId="2" startPc="268438444"/>
+<entry endPc="268439503" name="fnt" stackId="3" startPc="268439175"/>
+<entry endPc="268439503" name="str" stackId="4" startPc="268439175"/>
+<entry endPc="268439504" name="dc" stackId="1" startPc="268439171"/>
+<entry endPc="268439504" name="y" stackId="2" startPc="268439171"/>
+<entry endPc="268440345" name="t" stackId="9" startPc="268440159"/>
+<entry endPc="268440348" name="hour" stackId="7" startPc="268439508"/>
+<entry endPc="268440348" name="fnt" stackId="4" startPc="268439508"/>
+<entry endPc="268440348" name="min" stackId="6" startPc="268439508"/>
+<entry endPc="268440348" name="sec" stackId="5" startPc="268439508"/>
+<entry endPc="268440348" name="str" stackId="8" startPc="268439508"/>
+<entry endPc="268440349" name="dc" stackId="1" startPc="268439504"/>
+<entry endPc="268440349" name="os" stackId="3" startPc="268439504"/>
+<entry endPc="268440349" name="y" stackId="2" startPc="268439504"/>
+<entry endPc="268440852" name="hour" stackId="7" startPc="268440353"/>
+<entry endPc="268440852" name="fnt" stackId="3" startPc="268440353"/>
+<entry endPc="268440852" name="min" stackId="6" startPc="268440353"/>
+<entry endPc="268440852" name="sec" stackId="5" startPc="268440353"/>
+<entry endPc="268440852" name="str" stackId="4" startPc="268440353"/>
+<entry endPc="268440853" name="dc" stackId="1" startPc="268440349"/>
+<entry endPc="268440853" name="y" stackId="2" startPc="268440349"/>
+<entry endPc="268441218" name="dc" stackId="1" startPc="268440853"/>
+<entry endPc="268441271" name="h" stackId="1" startPc="268441218"/>
 </localVars>
 <annotations/>
 <functions>
+<functionEntry accessMode="public" name="fm" parent="TidyData">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TidyData">
+<param id="lDist"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="reset" parent="TidyData">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="add" parent="TidyData">
+<param id="dist"/>
+<param id="time"/>
+<param id="cad"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TidyFieldApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="TidyFieldApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="TidyFieldApp">
+<documentation/>
+</functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="TidyFieldView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="fm" parent="TidyFieldView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="dUnits" parent="TidyFieldView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="tfHour" parent="TidyFieldView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="TidyFieldView">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onLayout" parent="TidyFieldView">
@@ -165,67 +422,47 @@
 <param id="info"/>
 <documentation/>
 </functionEntry>
+<functionEntry accessMode="public" name="drawTxt" parent="TidyFieldView">
+<param id="dc"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawSmall" parent="TidyFieldView">
+<param id="dc"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawMedium" parent="TidyFieldView">
+<param id="dc"/>
+<param id="y"/>
+<param id="os"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawLarge" parent="TidyFieldView">
+<param id="dc"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
 <functionEntry accessMode="public" name="onUpdate" parent="TidyFieldView">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="Background">
+<functionEntry accessMode="public" name="hourFmt" parent="TidyFieldView">
+<param id="h"/>
 <documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="setColor" parent="Background">
-<param id="color"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="draw" parent="Background">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="TidyFieldApp">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStart" parent="TidyFieldApp">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStop" parent="TidyFieldApp">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getInitialView" parent="TidyFieldApp">
-<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="TopLeftLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="TopRightLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="BottomLeftLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="BottomRightLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
 </functionEntry>
 </functions>
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
-<dataEntry offset="253" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="332" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="371" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="402" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="433" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="464" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="535" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="582" parentId="globals" symbolId="TidyFieldView" type="class"/>
-<dataEntry offset="661" parentId="globals" symbolId="TidyFieldApp" type="class"/>
+<dataEntry offset="182" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="261" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="300" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="331" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="394" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="425" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="456" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="647" parentId="globals" symbolId="TidyData" type="class"/>
+<dataEntry offset="806" parentId="globals" symbolId="TidyFieldView" type="class"/>
+<dataEntry offset="1101" parentId="globals" symbolId="TidyFieldApp" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>
