@@ -130,8 +130,8 @@ class TidyFieldView extends Ui.DataField {
         cad = info.currentCadence == null ? cad : info.currentCadence;
         dst = info.elapsedDistance == null ? dst : info.elapsedDistance;
         spd = info.currentSpeed == null ? spd: info.currentSpeed;
-        time = info.elapsedTime == null ? time : info.elapsedTime; // includes pause
-        // time = info.timerTime == null ? time : info.timerTime; // without pause
+        // time = info.elapsedTime == null ? time : info.elapsedTime; // includes pause
+        time = info.timerTime == null ? time : info.timerTime; // without pause
         avgCad = info.averageCadence == null ? avgCad : info.averageCadence;
         avgSpd = info.averageSpeed == null ? avgSpd: info.averageSpeed;
 
@@ -146,7 +146,8 @@ class TidyFieldView extends Ui.DataField {
             info.startTime == null || // if we haven't started, we don't calc here
             info.elapsedDistance == null ) { return; }
 
-        rolling.add(info.elapsedDistance, info.elapsedTime, info.currentCadence);
+        // rolling.add(info.elapsedDistance, info.elapsedTime, info.currentCadence);
+        rolling.add(info.elapsedDistance, info.timerTime, info.currentCadence);
 
         if ( rolling.ready ) {
             slideCad = rolling.cadTotal / rolling.timeTotal / cadDiv;

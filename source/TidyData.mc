@@ -69,7 +69,6 @@ class TidyData {
 
     // if our distance delta isn't lD/dSz we don't update the actuals
     // this means we actually end up with a heap of wasted space
-    // Sys.println("Adding " + ((readIdx+dSz-writeIdx)%dSz) + " " + d + " " + lapDist/dSz);
     if (d >= lapDist/dSz) {
       distTotal += d;
       timeTotal += t;
@@ -91,12 +90,11 @@ class TidyData {
         distTotal -= d;
         timeTotal -= t;
         cadTotal -= c*t;
-        // Sys.println("DIFF: " + ((readIdx+dSz-writeIdx)%dSz));
       }
       writeIdx = (writeIdx + 1) % dSz;
       distTrue = dist;
       timeTrue = time;
-    } 
+    }
 
   }
 }
