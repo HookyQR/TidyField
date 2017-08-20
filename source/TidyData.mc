@@ -30,7 +30,9 @@ class TidyData {
       nrOf = lDist < 1000 ? lDist.toNumber() : 1000;
     } else {
       max = _fm / 5;
-      max -= 800; // Memory required for drawing
+      // at most we can have half of the memory,
+      // but must also leave a bunch for drawing
+      max = max > 1500 ? max / 2 : max - 750;
       max = max < 2 ? 2 : max;
       nrOf = lDist < max ? lDist.toNumber() : max;
     }
